@@ -1,7 +1,7 @@
 var files = [
-  "/pwa-master/pwa/index.html",
-  "/pwa-master/pwa/manifest.json",
-  "/pwa-master/pwa/styles/inline.css"
+  "/desafio/pwa-master/pwa/index.html",
+  "/desafio/pwa-master/pwa/manifest.json",
+  "/desafio/pwa-master/pwa/styles/inline.css"
 ];
 // dev only
 if (typeof files == 'undefined') {
